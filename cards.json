@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": "v3",
+      "title": "Bản v3",
+      "description": "Cần nhân vật Hayato",
+      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ff.zip",
+      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ffmax.zip",
+      "updated": 1735000000
+    },
+    {
+      "id": "v2",
+      "title": "Bản v2",
+      "description": "Cần nhân vật Kelly",
+      "image": "https://kenmodz.github.io/images/v27-50.jpg",
+      "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
+      "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ff.zip",
+      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ffmax.zip",
+      "updated": 1734000000
+    },
+    {
+      "id": "v1",
+      "title": "Bản v1",
+      "description": "Cần nhân vật Alok thức tỉnh",
+      "image": "https://kenmodz.github.io/images/v27-50.jpg",
+      "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
+      "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v1_ff.zip",
+      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v1_ffmax.zip",
+      "updated": 1733000000
+    }
+  ]
+}
