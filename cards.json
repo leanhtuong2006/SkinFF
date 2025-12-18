@@ -1,26 +1,28 @@
 {
-  "cards": [
-         {
-      "id": "v6",
-      "title": "Bản v6",
+  "cards": [     {
+      "id": "v20",
+      "title": "Bản v20",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/v145.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
       "min_app_version": "1.0",
-      "updated": 1738000000
+      "updated": 1740000000
     },
-     {
+
+
+    
+         {
       "id": "v5",
       "title": "Bản v5",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1737000000
     },
@@ -29,10 +31,10 @@
       "title": "Bản v4",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/v7.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1736000000
     },
@@ -41,7 +43,7 @@
       "title": "Bản v3",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/v131.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_max.zip",
@@ -53,7 +55,7 @@
       "title": "Bản v2",
       "description": "Cần nhân vật Kelly",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v27-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/v130.jpg",
       "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_max.zip",
@@ -65,7 +67,7 @@
       "title": "Bản v1",
       "description": "Cần nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://kenmodz.github.io/images/v27-50.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/v111.jpg",
       "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_max.zip",
@@ -74,6 +76,7 @@
     }
   ]
 }
+
 
 
 
