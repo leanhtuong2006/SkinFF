@@ -1,21 +1,21 @@
 {
   "cards": [     {
-      "id": "v20",
-      "title": "Bản v20",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "id": "v10",
+      "title": "Bản v10",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/v145.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
       "min_app_version": "1.0",
-      "updated": 1750000000
+      "updated": 1742000000
     },
           {
       "id": "v9",
       "title": "Bản v9",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Kairos",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kairos\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_th.zip",
@@ -26,8 +26,8 @@
           {
       "id": "v8",
       "title": "Bản v8",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Nairi",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Nairi\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/ff_th.zip",
@@ -38,8 +38,8 @@
           {
       "id": "v7",
       "title": "Bản v7",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Nairi",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Nairi\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/ff_th.zip",
@@ -50,8 +50,8 @@
              {
       "id": "v6",
       "title": "Bản v6",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Shirou",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Shirou\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/ff_th.zip",
@@ -62,8 +62,8 @@
          {
       "id": "v5",
       "title": "Bản v5",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_th.zip",
@@ -74,8 +74,8 @@
      {
       "id": "v4",
       "title": "Bản v4",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/v7.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_th.zip",
@@ -86,7 +86,7 @@
     {
       "id": "v3",
       "title": "Bản v3",
-      "description": "Cần nhân vật Hayato",
+      "description": "Nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/v131.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
@@ -98,7 +98,7 @@
     {
       "id": "v2",
       "title": "Bản v2",
-      "description": "Cần nhân vật Kelly",
+      "description": "Nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/v130.jpg",
       "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
@@ -109,9 +109,9 @@
     },
     {
       "id": "v1",
-      "title": "Bản v1",
-      "description": "Cần nhân vật Alok thức tỉnh",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "title": "Bộ Itachi",
+      "description": "Nhân vật Alok thức tỉnh + Áo đới mộc bạch",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh + Áo đới mộc bạch \n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật và áo.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/v111.jpg",
       "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_th.zip",
@@ -121,6 +121,7 @@
     }
   ]
 }
+
 
 
 
