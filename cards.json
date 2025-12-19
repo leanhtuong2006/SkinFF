@@ -1,5 +1,66 @@
 {
-  "cards": [     {
+  "cards": [   
+            {
+      "id": "v15",
+      "title": "UMP Phong Cách",
+      "description": "Cần UMP phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng UMP phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/umpphongcach.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1747000000
+    },
+            {
+      "id": "v14",
+      "title": "M1887 Thanh Phong",
+      "description": "Cần M1887 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/m1887thanhphong.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1746000000
+    },
+             {
+      "id": "v13",
+      "title": "M1014 Lông Tộc",
+      "description": "Cần M1014 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1014 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/m1014longtoc.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1745000000
+    },
+          {
+      "id": "v12",
+      "title": "MP5 Thiên Thần Bạch Kim",
+      "description": "Cần MP5 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng MP5 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/mp5thienthanbachkim.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1744000000
+    },
+        {
+      "id": "v11",
+      "title": "M1887 Vũ Trụ",
+      "description": "Cần M1887 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/m1887vutru.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1743000000
+    },
+    {
       "id": "v10",
       "title": "V10",
       "description": "Nhân vật Ignis",
@@ -8,7 +69,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1742000000
     },
           {
@@ -20,7 +81,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1741000000
     },
           {
@@ -32,7 +93,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1740000000
     },
           {
@@ -44,7 +105,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1739000000
     },
              {
@@ -56,7 +117,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1738000000
     },
          {
@@ -68,7 +129,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1737000000
     },
      {
@@ -80,7 +141,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1736000000
     },
     {
@@ -92,7 +153,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1735000000
     },
     {
@@ -104,7 +165,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1734000000
     },
     {
@@ -116,11 +177,12 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_max.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.1",
       "updated": 1733000000
     }
   ]
 }
+
 
 
 
