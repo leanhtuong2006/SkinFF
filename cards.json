@@ -1,5 +1,17 @@
 {
   "cards": [   
+    {
+      "id": "v16",
+      "title": "MP40 Mãng Xà",
+      "description": "Cần MP40 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng MP40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/mp40mangxa.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_max.zip",
+      "min_app_version": "1.1",
+      "updated": 1748000000
+    },
             {
       "id": "v15",
       "title": "UMP Phong Cách",
@@ -182,6 +194,7 @@
     }
   ]
 }
+
 
 
 
