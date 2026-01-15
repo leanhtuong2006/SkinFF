@@ -161,7 +161,7 @@
       "title": "M1887 Hỏa Nô",
       "description": "Cần M1887 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/m1887vutru.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/M1887hoano.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/ff_max.zip",
@@ -245,7 +245,7 @@
       "title": "V4",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n Không có FFMax",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/v7.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/V3.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
@@ -257,7 +257,7 @@
       "title": "V3",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/v131.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V1/V1.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V1/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V1/ff_max.zip",
@@ -269,7 +269,7 @@
       "title": "V2",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n Không có FFMax",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/v130.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V2/V2.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V2/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V2/ff_th.zip",
@@ -281,7 +281,7 @@
       "title": "V1",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/v111.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V1/V1.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V1/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V1/ff_max.zip",
@@ -290,6 +290,7 @@
     }
   ]
 }
+
 
 
 
