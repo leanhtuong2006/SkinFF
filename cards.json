@@ -202,7 +202,7 @@
       "title": "V8",
       "description": "Nhân vật Satino",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Satino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/V3.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_max.zip",
@@ -214,7 +214,7 @@
       "title": "V7",
       "description": "Nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/V2.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_max.zip",
@@ -228,7 +228,7 @@
       "title": "V6",
       "description": "Nhân vật Ryden",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ryden\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/yuji%20itadori.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_max.zip",
@@ -240,7 +240,7 @@
       "title": "V5",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/V4.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_max.zip",
@@ -252,7 +252,7 @@
       "title": "V4",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/V3.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_max.zip",
@@ -300,6 +300,7 @@
     }
   ]
 }
+
 
 
 
