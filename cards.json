@@ -98,6 +98,19 @@
       "updated": 2000000000
     },
 
+
+
+
+
+
+
+
+
+
+
+
+    
+
     
                   {
       "id": "v16",
@@ -151,24 +164,24 @@
       "id": "v12",
       "title": "V12",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V22/V22.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V22/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V22/ff_max.zip",
-      "min_app_version": "1.8",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V26/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V26/ff_max.zip",
+      "min_app_version": "1.5",
       "updated": 1743000000
     },
          {
       "id": "v11",
       "title": "V11",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V21/V21.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V21/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V21/ff_max.zip",
-      "min_app_version": "1.8",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V24/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V24/ff_max.zip",
+      "min_app_version": "1.5",
       "updated": 1742000000
     },
     {
@@ -176,23 +189,23 @@
       "title": "V10",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/v145.jpg",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
-      "min_app_version": "1.8",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V15/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V15/ff_max.zip",
+      "min_app_version": "1.5",
       "updated": 1742000000
     },
           {
       "id": "v9",
       "title": "V9",
-      "description": "Nhân vật Kairos",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kairos\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/v6.jpg",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_max.zip",
-      "min_app_version": "1.8",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V11/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V11/ff_max.zip",
+      "min_app_version": "1.5",
       "updated": 1741000000
     },
 
@@ -221,8 +234,6 @@
       "min_app_version": "1.4",
       "updated": 1739000000
     },
-
-    
              {
       "id": "v6",
       "title": "V6",
@@ -300,6 +311,7 @@
     }
   ]
 }
+
 
 
 
