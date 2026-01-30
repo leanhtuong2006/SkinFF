@@ -1,5 +1,29 @@
 {
   "cards": [ 
+                        {
+      "id": "v208",
+      "title": "AWM gấu gắt gỏng",
+      "description": "Cần AWM phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng AWM phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/awm/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/awm/ff_th.zip",
+      "min_app_version": "1.6",
+      "updated": 2000000010
+    },
+                    {
+      "id": "v207",
+      "title": "AK Rồng Xanh",
+      "description": "Cần AK phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng AK phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/akrongxanh/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/akrongxanh/ff_th.zip",
+      "min_app_version": "1.6",
+      "updated": 2000000009
+    },
                 {
       "id": "v206",
       "title": "M1887 Vũ Trụ",
@@ -101,28 +125,105 @@
 
 
 
+                {
+      "id": "v23",
+      "title": "V23",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V33/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V33/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1755000000
+    },
+                {
+      "id": "v22",
+      "title": "V22",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V27/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V27/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1754000000
+    },
 
+                {
+      "id": "v21",
+      "title": "V21",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V21/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V21/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1753000000
+    },
+                {
+      "id": "v20",
+      "title": "V20",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V12/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V12/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1752000000
+    },
 
+                  {
+      "id": "v19",
+      "title": "V19",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1751000000
+    },
 
+                      {
+      "id": "v18",
+      "title": "V18",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1750000000
+    },
 
-
-
-
-
-    
-
-    
+                      {
+      "id": "v17",
+      "title": "V17",
+      "description": "Nhân vật Kapella",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kapella\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V9nu/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V9nu/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1749000000
+    },
                   {
       "id": "v16",
       "title": "V16",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/V26.jpg",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/ff_max.zip",
-      "min_app_version": "1.8",
-      "updated": 1747000000
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V9nam/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V9nam/ff_max.zip",
+      "min_app_version": "1.6",
+      "updated": 1748000000
     },
                {
       "id": "v15",
@@ -311,6 +412,7 @@
     }
   ]
 }
+
 
 
 
