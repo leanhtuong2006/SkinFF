@@ -18,7 +18,7 @@
       "title": "Xm8",
       "description": "Cần Xm8 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Xm8 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/xm8.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/ff_max.zip",
@@ -30,7 +30,7 @@
       "title": "Scar",
       "description": "Cần Scar phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Scar phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/scar.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/ff_max.zip",
@@ -42,7 +42,7 @@
       "title": "P90",
       "description": "Cần P90 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng P90 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/p90.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/ff_max.zip",
@@ -55,7 +55,7 @@
       "title": "M4a1",
       "description": "Cần M4a1 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M4a1 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/m4a1.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/ff_max.zip",
@@ -66,7 +66,7 @@
       "title": "M1014",
       "description": "Cần M1014 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1014 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/m1014.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/ff_max.zip",
@@ -488,6 +488,7 @@
     }
   ]
 }
+
 
 
 
