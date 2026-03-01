@@ -1,5 +1,58 @@
 {
-  "cards": [ 
+  "cards": [  
+                                    {
+      "id": "v217",
+      "title": "Awm Tạp Nham",
+      "description": "Awm phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng Awm phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/awm.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/ff_max.zip",
+      "min_app_version": "2.1",
+      "updated": 2000000020
+    },
+                                {
+      "id": "v217",
+      "title": "Mp40 Nâng Cấp",
+      "description": "Mp40 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng Mp40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_max.zip",
+      "min_app_version": "2.1",
+      "updated": 2000000019
+    },
+    
+    {
+      "id": "v216",
+      "title": "Full Hành Động",
+      "description": "",
+      "detail": "Cần chuẩn bị:\n✅ DAB, Vỗ tay, Điệu nhảy chèo thuyền, Baby shark, Hành trình xếp hạng 2025, Lắc hông, Tử chiến huyền thoại, Sinh tồn huyền thoại\n\nCách cài:\n1) Vào xóa gói mở rộng của hành động\n2) Tải lại hành động tương ứng.\n\n Không có FFMax.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/xm8.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/fullhanhdong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/fullhanhdong/ff_th.zip",
+      "min_app_version": "2.1",
+      "updated": 2000000018
+    },
+
+                                {
+      "id": "v215",
+      "title": "Full Skin Súng",
+      "description": "Tất cả skin phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Trang bị và tải gói mở rộng của all skin súng phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/xm8.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_th.zip",
+      "min_app_version": "2.1",
+      "updated": 2000000017
+    },
+
+
+    
     
                             {
       "id": "v214",
@@ -199,7 +252,19 @@
     },
 
 
-
+    
+                {
+      "id": "v33",
+      "title": "V34",
+      "description": "Nhân vật Shirou",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Shirou\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/bosung.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/ff_max.zip",
+      "min_app_version": "2.1",
+      "updated": 1766000000
+    },
                 {
       "id": "v33",
       "title": "V33",
@@ -611,6 +676,7 @@
     }
   ]
 }
+
 
 
 
