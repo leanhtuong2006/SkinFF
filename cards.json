@@ -9,8 +9,8 @@
       "detail": "Cần chuẩn bị:\n✅ DAB, Vỗ tay, Điệu nhảy chèo thuyền, Baby shark, Hành trình xếp hạng 2025, Lắc hông, Tử chiến huyền thoại, Sinh tồn huyền thoại\n\nCách cài:\n1) Vào xóa gói mở rộng của hành động\n2) Tải lại hành động tương ứng.\n\n Không có FFMax.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/fullhanhdong.png",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/fullhanhdong/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/fullhanhdong/ff_th.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/ff_th.zip",
       "min_app_version": "2.1",
       "updated": 2000000020
     },
@@ -663,6 +663,7 @@
     }
   ]
 }
+
 
 
 
