@@ -58,7 +58,7 @@
       "title": "Mp40 Tia Chớp",
       "description": "Mp40 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Mp40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/mp40.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_max.zip",
@@ -663,6 +663,7 @@
     }
   ]
 }
+
 
 
 
