@@ -1,9 +1,32 @@
 {
   "cards": [  
-                                
     
+                         {
+      "id": "v220",
+      "title": "M1887 Vương Quốc Cát",
+      "description": "M1887 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/m1887vuongquoccat.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/ff_th.zip",
+      "min_app_version": "2.3",
+      "updated": 2000000022
+    },                   
+            {
+      "id": "v219",
+      "title": "M1887 Kiếm Minecraft",
+      "description": "M1887 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/m1887kiemminecraft.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/ff_th.zip",
+      "min_app_version": "2.3",
+      "updated": 2000000021
+    },
     {
-      "id": "v216",
+      "id": "v218",
       "title": "Full Hành Động",
       "description": "",
       "detail": "Cần chuẩn bị:\n✅ DAB, Vỗ tay, Điệu nhảy chèo thuyền, Baby shark, Hành trình xếp hạng 2025, Lắc hông, Tử chiến huyền thoại, Sinh tồn huyền thoại\n\nCách cài:\n1) Vào xóa gói mở rộng của hành động\n2) Tải lại hành động tương ứng.\n\n Không có FFMax.",
@@ -16,7 +39,7 @@
     },
 
                                 {
-      "id": "v215",
+      "id": "v217",
       "title": "Full Skin Súng",
       "description": "Tất cả skin phong xà",
       "detail": "Cần chuẩn bị:\n✅ Trang bị và tải gói mở rộng của all skin súng phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
@@ -29,10 +52,10 @@
     },
 
       {
-      "id": "v214",
+      "id": "v216",
       "title": "Đồ Họa Minecraft",
-      "description": "Huấn luyện-thiên đường-thế kỉ",
-      "detail": "Cần chuẩn bị:\n✅ Bản đồ: Đảo huấn luyện - thiên đường - thế kỉ.\n\nCách cài:\n1) Vào tải gói mở rộng của đảo này\n2) Tải xong ra cài ff tương ứng.",
+      "description": "Độc lang chiến-Huấn luyện-thiên đường-thế kỉ",
+      "detail": "Cần chuẩn bị:\n✅ Bản đồ: Độc lang chiến - Đảo huấn luyện - thiên đường - thế kỉ.\n\nCách cài:\n1) Vào tải gói mở rộng của đảo này\n2) Tải xong ra cài ff tương ứng.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/minecraft.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_th.zip",
@@ -42,7 +65,7 @@
     },
 
         {
-      "id": "v217",
+      "id": "v215",
       "title": "Awm Thần Lực",
       "description": "Awm phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Awm phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
@@ -54,7 +77,7 @@
       "updated": 2000000017
     },
                                 {
-      "id": "v217",
+      "id": "v214",
       "title": "Mp40 Tia Chớp",
       "description": "Mp40 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Mp40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
@@ -125,8 +148,6 @@
       "min_app_version": "2.2",
       "updated": 2000000011
     },
-
-
     
                         {
       "id": "v208",
@@ -251,6 +272,61 @@
     },
 
 
+                    {
+      "id": "v37",
+      "title": "V37",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/V41.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/ff_max.zip",
+      "min_app_version": "2.3",
+      "updated": 1769000000
+    },
+                    {
+      "id": "v36",
+      "title": "V36",
+      "description": "Nhân vật Alock thức tỉnh",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/V40.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/ff_max.zip",
+      "min_app_version": "2.3",
+      "updated": 1768000000
+    },
+                {
+      "id": "v35",
+      "title": "V35",
+      "description": "Nhân vật Santino",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Santino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/V39.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/ff_max.zip",
+      "min_app_version": "2.3",
+      "updated": 1767000000
+    },
+                {
+      "id": "v34",
+      "title": "V34",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V38/V38.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V38/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V38/ff_max.zip",
+      "min_app_version": "2.3",
+      "updated": 1766000000
+    },
+
+
+
+
+
+
+    
     
                 {
       "id": "v33",
