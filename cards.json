@@ -1,5 +1,17 @@
 {
   "cards": [  
+                             {
+      "id": "v220",
+      "title": "THÔNG BÁO !!!",
+      "description": "",
+      "detail": "KÊNH MOD LITE YOUTUBE ĐANG UPDATE MOD TRONG APP",
+      "image": "https://github.com/leanhtuong2006/SkinFF/blob/main/thongbaoupdate.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://www.youtube.com/@toolfixlaggame",
+      "ffmax": "https://www.youtube.com/@toolfixlaggame",
+      "min_app_version": "2.3",
+      "updated": 2000000022
+    },  
     
                          {
       "id": "v220",
