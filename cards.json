@@ -1,67 +1,57 @@
 {
   "cards": [  
-                             {
-      "id": "v220",
-      "title": "THÔNG BÁO !!!",
-      "description": "",
-      "detail": "KÊNH MOD LITE YOUTUBE ĐANG UPDATE MOD TRONG APP",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/thongbaoupdate.jpg",
-      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://www.youtube.com/@toolfixlaggame",
-      "ffmax": "https://www.youtube.com/@toolfixlaggame",
-      "min_app_version": "2.3",
-      "updated": 2000000022
-    },  
     
                          {
       "id": "v220",
       "title": "M1887 Vương Quốc Cát",
       "description": "M1887 phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/m1887vuongquoccat.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n KHÔNG CÓ FF MAX.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vuongquoccat/m1887vuongquoccat.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887vuongquoccat/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vuongquoccat/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vuongquoccat/ff_th.zip",
+      "min_app_version": "2.4",
       "updated": 2000000022
     },                   
             {
       "id": "v219",
-      "title": "M1887 Kiếm Minecraft",
-      "description": "M1887 phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/m1887kiemminecraft.jpg",
+      "title": "Thomson Hắc Thạch Long",
+      "description": "Thomson phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng Thomson phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/thomsonhacthachlong/thomsonhacthachlong.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/m1887kiemminecraft/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/thomsonhacthachlong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/thomsonhacthachlong/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000021
     },
     {
       "id": "v218",
-      "title": "Full Hành Động",
-      "description": "",
-      "detail": "Cần chuẩn bị:\n✅ DAB, Vỗ tay, Điệu nhảy chèo thuyền, Baby shark, Hành trình xếp hạng 2025, Lắc hông, Tử chiến huyền thoại, Sinh tồn huyền thoại\n\nCách cài:\n1) Vào xóa gói mở rộng của hành động\n2) Tải lại hành động tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/fullhanhdong.png",
+      "title": "Mag7 Thần Lôi",
+      "description": "Mag7 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng Mag7 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mag7thanloi/mag7thanloi.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mag7thanloi/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mag7thanloi/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000020
     },
 
                                 {
       "id": "v217",
-      "title": "Full Skin Súng",
-      "description": "Tất cả skin phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Trang bị và tải gói mở rộng của all skin súng phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/full/fullskinsung.png",
+      "title": "Groza Địa Chấn Sắc Màu",
+      "description": "Groza phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng Groza phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/grozadiachansacmau/grozadiachansacmau.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/grozadiachansacmau/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/grozadiachansacmau/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000019
     },
+
+    
 
       {
       "id": "v216",
@@ -76,113 +66,122 @@
       "updated": 2000000018
     },
 
+    
+
         {
       "id": "v215",
       "title": "Awm Thần Lực",
       "description": "Awm phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Awm phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/awm.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthanluc/awmthanluc.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/awm/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthanluc/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthanluc/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000017
     },
+
+    
                                 {
       "id": "v214",
       "title": "Mp40 Tia Chớp",
       "description": "Mp40 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Mp40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/mp40.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40tiachop/mp40tiachop.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/mp40/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40tiachop/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40tiachop/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000016
     },
+
+    
                             {
       "id": "v213",
-      "title": "Xm8",
+      "title": "Xm8 Lôi Thần",
       "description": "Cần Xm8 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Xm8 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/xm8.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/xm8loithan/xm8loithan.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/xm8/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/xm8loithan/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/xm8loithan/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000015
     },
                             {
       "id": "v212",
-      "title": "Scar",
+      "title": "Scar Cá Mập",
       "description": "Cần Scar phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng Scar phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/scar.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/scarcamap/scarcamap.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/scar/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/scarcamap/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/scarcamap/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000014
     },
                             {
       "id": "v211",
-      "title": "P90",
+      "title": "P90 Thần Lực",
       "description": "Cần P90 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng P90 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/p90.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/p90thanluc/p90thanluc.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/p90/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/p90thanluc/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/p90thanluc/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000013
     },
 
                             {
       "id": "v210",
-      "title": "M4a1",
+      "title": "M4a1 Hỏa Long",
       "description": "Cần M4a1 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M4a1 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/m4a1.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m4a1hoalong/m4a1hoalong.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m4a1/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m4a1hoalong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m4a1hoalong/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000012
-    },                        {
+    },  
+    
+    
+    {
       "id": "v209",
-      "title": "M1014",
+      "title": "M1014 Bọ Cạp",
       "description": "Cần M1014 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1014 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/m1014.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014bocap/m1014bocap.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014bocap/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014bocap/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000011
     },
     
                         {
       "id": "v208",
-      "title": "AWM gấu gắt gỏng",
+      "title": "AWM Thiên Nga",
       "description": "Cần AWM phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Súng AWM phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/awm/awm.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Súng AWM phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthiennga/awmthiennga.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/awm/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/awm/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthiennga/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmthiennga/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000010
     },
                     {
       "id": "v207",
       "title": "AK Rồng Xanh",
       "description": "Cần AK phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Súng AK phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n Không có FFMax.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/akrongxanh/akrongxanh.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Súng AK phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/akrongxanh/akrongxanh.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/akrongxanh/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/allsung/akrongxanh/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/akrongxanh/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/akrongxanh/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000009
     },
                 {
@@ -190,11 +189,11 @@
       "title": "M1887 Vũ Trụ",
       "description": "Cần M1887 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/m1887vutru.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vutru/m1887vutru.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vutru/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887vutru/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000008
     },
     
@@ -202,36 +201,40 @@
       "id": "v205",
       "title": "M590 DIGIMON",
       "description": "Cần M590 phong xà",
-      "detail": "Cần chuẩn bị:\n✅ Súng M590 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng\n\n *Không có FF Max.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/M590.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Súng M590 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590digimon/M590.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590digimon/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590digimon/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000007
     },
+
+    
     {
       "id": "v204",
       "title": "MP40 Mãng Xà",
       "description": "Cần MP40 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng MP40 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/mp40mangxa.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40mangxa/mp40mangxa.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40mangxa/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp40mangxa/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000006
     },
+
+    
             {
       "id": "v203",
       "title": "UMP Phong Cách",
       "description": "Cần UMP phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng UMP phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/umpphongcach.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/umpphongcach.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000005
     },
             {
@@ -239,35 +242,38 @@
       "title": "M1887 Thanh Phong",
       "description": "Cần M1887 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/m1887thanhphong.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887thanhphong/m1887thanhphong.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887thanhphong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1887thanhphong/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000004
     },
+    
+    
              {
       "id": "v201",
-      "title": "M1014 Lông Tộc",
+      "title": "M1014 Long Tộc",
       "description": "Cần M1014 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1014 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/m1014longtoc.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014longtoc/m1014longtoc.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014longtoc/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014longtoc/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000003
     },
+
           {
       "id": "v201",
       "title": "MP5 Thiên Thần Bạch Kim",
       "description": "Cần MP5 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng MP5 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/mp5thienthanbachkim.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp5thienthanbachkim/mp5thienthanbachkim.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp5thienthanbachkim/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/mp5thienthanbachkim/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 2000000002
     },
         {
@@ -275,10 +281,10 @@
       "title": "M1887 Hỏa Nô",
       "description": "Cần M1887 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M1887 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/M1887hoano.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/M1887_hoano/M1887hoano.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/M1887_hoano/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/M1887_hoano/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/M1887_hoano/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 2000000000
     },
