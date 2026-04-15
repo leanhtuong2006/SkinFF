@@ -223,9 +223,8 @@
       "min_app_version": "3.0",
       "updated": 2000000006
     },
-
     
-            {
+         {
       "id": "v203",
       "title": "UMP Phong Cách",
       "description": "Cần UMP phong xà",
@@ -249,8 +248,6 @@
       "min_app_version": "2.4",
       "updated": 2000000004
     },
-    
-    
              {
       "id": "v201",
       "title": "M1014 Long Tộc",
@@ -263,7 +260,6 @@
       "min_app_version": "3.0",
       "updated": 2000000003
     },
-
           {
       "id": "v201",
       "title": "MP5 Thiên Thần Bạch Kim",
