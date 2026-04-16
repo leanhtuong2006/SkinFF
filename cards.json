@@ -641,7 +641,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbedo/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbedo/ff_max.zip",
-      "min_app_version": "2.4",
+      "min_app_version": "3.0",
       "updated": 1742000000
     },
           {
@@ -653,33 +653,33 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_max.zip",
-      "min_app_version": "2.4",
+      "min_app_version": "3.0",
       "updated": 1741000000
     },
+
+
+
 
     
           {
       "id": "v8",
       "title": "V8",
-      "description": "Nhân vật Satino",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Satino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/V3.jpg",
+      "description": "Nhân vật Thiva",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Thiva\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/bupbehong.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_max.zip",
+      "min_app_version": "2.4",
       "updated": 1740000000
     },
-
-
-    
     
           {
       "id": "v7",
       "title": "V7",
       "description": "Nhân vật Santino",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Santino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Santino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V5/V5.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V5/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V5/ff_max.zip",
@@ -692,7 +692,7 @@
       "title": "V6",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/V3.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_max.zip",
@@ -704,7 +704,7 @@
       "title": "V5",
       "description": "Nhân vật Kapella",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Kapella\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/ruok/rouk.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/ruok/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/ruok/ff_max.zip",
@@ -716,7 +716,7 @@
       "title": "V4",
       "description": "Nhân vật Alock thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V46/V46.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V46/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V46/ff_max.zip",
@@ -728,7 +728,7 @@
       "title": "V3",
       "description": "Nhân vật Alock thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
-      "image": "",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/V2.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_max.zip",
@@ -739,8 +739,8 @@
       "id": "v2",
       "title": "V2",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Không có FFMax",
-      "image": "",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V9/V9.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V9/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V9/ff_max.zip",
