@@ -226,14 +226,14 @@
     
          {
       "id": "v203",
-      "title": "UMP Phong Cách",
+      "title": "UMP Phong Cách(lỗi)",
       "description": "Cần UMP phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng UMP phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/umpphongcach.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/umpphongcach/ff_max.zip",
-      "min_app_version": "2.4",
+      "min_app_version": "3.0",
       "updated": 2000000005
     },
             {
