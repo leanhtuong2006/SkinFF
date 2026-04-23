@@ -1,5 +1,17 @@
 {
   "cards": [  
+                             {
+      "id": "v221",
+      "title": "AC80 Cuồng long bạo kích",
+      "description": "AC80 phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Súng AC80 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n KHÔNG CÓ FF MAX.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/ac80cuonglongbaokich/ac80cuonglongbaokich.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/ac80cuonglongbaokich/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/ac80cuonglongbaokich/ff_max.zip",
+      "min_app_version": "3.0",
+      "updated": 2000000023
+    },  
     
                          {
       "id": "v220",
@@ -229,7 +241,7 @@
       "title": "M1014 Hải Vương",
       "description": "Cần M1014 lễ hội tím",
       "detail": "Cần chuẩn bị:\n✅ Súng M1014 lễ hội tím\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014haivuong/m1014haivuong,jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014haivuong/m1014haivuong.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014haivuong/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m1014haivuong/ff_max.zip",
@@ -599,25 +611,25 @@
                  {
       "id": "v13",
       "title": "V13",
-      "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nam/V6nam.jpg",
+      "description": "Nhân vật Alock thức tỉnh",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11/V11.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nam/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nam/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11/ff_max.zip",
+      "min_app_version": "2.5",
       "updated": 1744000000
     },
              {
       "id": "v12",
       "title": "V12",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V26/V26.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10/V10.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V26/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V26/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10/ff_max.zip",
+      "min_app_version": "2.5",
       "updated": 1743000000
     },
          {
@@ -635,25 +647,26 @@
     {
       "id": "v10",
       "title": "V10",
-      "description": "Nhân vật Nairi",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Nairi\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V8/V8.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbedo/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbedo/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V8/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V8/ff_max.zip",
+      "min_app_version": "2.5",
       "updated": 1742000000
     },
+    
           {
       "id": "v9",
       "title": "V9",
-      "description": "Nhân vật Thiva",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Thiva\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "",
+      "description": "Nhân vật Alock thức tỉnh",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7/V7.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bupbehong/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7/ff_max.zip",
+      "min_app_version": "2.5",
       "updated": 1741000000
     },
 
