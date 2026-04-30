@@ -1,5 +1,41 @@
 {
-  "cards": [  
+  "cards": [       
+    {
+      "id": "v224",
+      "title": "Đồ Họa Minecraft OB53",
+      "description": "Full map trừ Đảo Quân Sự",
+      "detail": "Cần chuẩn bị:\n✅ Tải full gói mở rộng bản đồ.\n\nCách cài:\n1) Vào tải gói mở rộng của đảo này\n.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/Minecraft.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_max.zip",
+      "min_app_version": "2.6",
+      "updated": 2000000026
+    },
+                                     {
+      "id": "v223",
+      "title": "FUll Hoạt Ảnh",
+      "description": "Bộ mộng cảnh - Hoạt Ảnh FFMAX",
+      "detail": "Cần chuẩn bị:\n✅ Tải gói mở rộng của bộ đồ Mộng Cảnh - Bật Hoạt Ảnh FFMAX\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n CHỈ CÓ FFMax - FFTH không hỗ trợ",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/fullhoatanh.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_max.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/full/ff_max.zip",
+      "min_app_version": "2.6",
+      "updated": 2000000025
+    },  
+                                 {
+      "id": "v222",
+      "title": "FUll hành động",
+      "description": "Súng phong xà - hd lv7",
+      "detail": "Cần chuẩn bị:\n✅ Tải gói mở rộng ác khẩu súng phong xà - hd lv7\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng.\n\n HIỆN TẠI CHỈ CÓ FFTH",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/fullhanhdong.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/fullhanhdong/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/fullhanhdong/ff_th.zip",
+      "min_app_version": "2.6",
+      "updated": 2000000024
+    },  
                              {
       "id": "v221",
       "title": "AC80 Cuồng long bạo kích",
@@ -74,7 +110,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_max.zip",
-      "min_app_version": "2.6",
+      "min_app_version": "3.5",
       "updated": 2000000018
     },
 
@@ -493,7 +529,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V33/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V33/ff_max.zip",
-      "min_app_version": "3.0",
+      "min_app_version": "2.6",
       "updated": 1755000000
     },
                 {
@@ -505,7 +541,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V27/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V27/ff_max.zip",
-      "min_app_version": "3.0",
+      "min_app_version": "2.6",
       "updated": 1754000000
     },
 
@@ -530,7 +566,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V12/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V12/ff_max.zip",
-      "min_app_version": "3.0",
+      "min_app_version": "2.6",
       "updated": 1752000000
     },
 
@@ -584,34 +620,38 @@
       "min_app_version": "3.0",
       "updated": 1748000000
     },
+
+
+
+
+
+
+    
                {
       "id": "v15",
       "title": "V15",
-      "description": "Nhân vật Alock thức tỉnh",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7alock/V7alock.jpg",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7alock/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V7alock/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V15/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V15/ff_max.zip",
+      "min_app_version": "2.6",
       "updated": 1746000000
     },
+
                  {
       "id": "v14",
       "title": "V14",
-      "description": "Nhân vật Kapella",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kapella\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nu/V6nu.jpg",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nu/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V6nu/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V13/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V13/ff_max.zip",
+      "min_app_version": "2.6",
       "updated": 1745000000
     },
-
-
-
-
     
                  {
       "id": "v13",
