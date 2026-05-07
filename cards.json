@@ -1,5 +1,18 @@
 {
   "cards": [    
+            {
+      "id": "v226",
+      "title": "AWM Gấu Trúc",
+      "description": "AWM phong xà",
+      "detail": "Cần chuẩn bị\n✅ Súng AWM phong xà .\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.\n\n KHÔNG CÓ FFMAX",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmgautruc/awmgautruc.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmgautruc/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmgautruc/ff_th.zip",
+      "min_app_version": "2.7",
+      "updated": 2000000028
+    },
+
         {
       "id": "v225",
       "title": "Phóng Lợn",
