@@ -1,5 +1,18 @@
 {
-  "cards": [    
+  "cards": [ 
+                {
+      "id": "v227",
+      "title": "Hiệu Ứng Kết Liểu",
+      "description": "Hàm xác chất độc",
+      "detail": "Cần chuẩn bị\n✅ Hàm xác chất độc .\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.\n\n KHÔNG CÓ FFMAX",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/hanhdongketlieu/hanhdongketlieu.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/hanhdongketlieu/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/hanhdongketlieu/ff_th.zip",
+      "min_app_version": "2.8",
+      "updated": 2000000029
+    },
+    
             {
       "id": "v226",
       "title": "AWM Gấu Trúc",
@@ -420,15 +433,16 @@
                 {
       "id": "v33",
       "title": "V33",
-      "description": "Nhân vật Shirou",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Shirou\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/bosung.jpg",
+      "description": "Nhân vật Kapella",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kapella\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/bosung/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/kapella2/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/kapella2/ff_max.zip",
+      "min_app_version": "2.8",
       "updated": 1765000000
     },
+    
 
                     {
       "id": "v32",
@@ -489,7 +503,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V50/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V50/ff_max.zip",
-      "min_app_version": "3.0",
+      "min_app_version": "2.8",
       "updated": 1760000000
     },
                     {
@@ -501,7 +515,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V39/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V39/ff_max.zip",
-      "min_app_version": "3.0",
+      "min_app_version": "2.8",
       "updated": 1759000000
     },
                     {
@@ -516,30 +530,38 @@
       "min_app_version": "2.7",
       "updated": 1758000000
     },
+
+    
                     {
       "id": "v25",
       "title": "V25",
-      "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V18/V18.jpg",
+      "description": "Nhân vật Kapella",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Kapella\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V18/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V18/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/kapella1/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/kapella1/ff_max.zip",
+      "min_app_version": "2.8",
       "updated": 1757000000
     },
+    
                     {
       "id": "v24",
       "title": "V24",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V14/V14.jpg",
+      "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V14/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V14/ff_max.zip",
-      "min_app_version": "3.0",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V21/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V21/ff_max.zip",
+      "min_app_version": "2.8",
       "updated": 1756000000
     },
+
+
+
+
+    
 
                 {
       "id": "v23",
