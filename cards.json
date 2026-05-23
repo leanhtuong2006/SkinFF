@@ -143,14 +143,14 @@
 
       {
       "id": "v216",
-      "title": "Đồ Họa Minecraft OB53",
-      "description": "Full map trừ Đảo Quân Sự",
-      "detail": "Cần chuẩn bị:\n✅ Tải full gói mở rộng bản đồ.\n\nCách cài:\n1) Vào tải gói mở rộng của đảo này\n.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/Minecraft.jpg",
+      "title": "M590 Đa Diện",
+      "description": "M590 Phong xà",
+      "detail": "Cần chuẩn bị:\n✅ Gói mở rộng M590 phong xà.\n\nCách cài:\n1) Vào tải gói mở rộng của súng này\n2) Và tải ff tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590dadien/m590dadien.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/maps/ff_max.zip",
-      "min_app_version": "3.5",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590dadien/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/m590dadien/ff_max.zip",
+      "min_app_version": "2.9",
       "updated": 2000000018
     },
 
