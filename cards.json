@@ -1,8 +1,20 @@
 {
-  "cards": [ 
+  "cards": [           
+    {
+      "id": "v229",
+      "title": "Bom Keo Gái 1",
+      "description": "Trên một số skin bom keo",
+      "detail": "Cần chuẩn bị\n✅ Skin bom keo Ánh Dương, Phong Cách Tanjiro, Bậc Thầy Sinh Tồn, Bậc Thầy Tử Chiến, Fan Truyện Tranh, Nhà Côn Trùng Học, Ú Oà.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo1/bomkeo1.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo1/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo1/ff_max.zip",
+      "min_app_version": "2.9",
+      "updated": 2000000031
+    },
 
                     {
-      "id": "v227",
+      "id": "v228",
       "title": "M1014 Shiba",
       "description": "Tất cả skin M1014 đều có thể dùng",
       "detail": "Cần chuẩn bị\n✅ Skin M1014 .\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
