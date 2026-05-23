@@ -1,5 +1,18 @@
 {
   "cards": [ 
+
+                    {
+      "id": "v227",
+      "title": "M1014 Shiba",
+      "description": "Tất cả skin M1014 đều có thể dùng",
+      "detail": "Cần chuẩn bị\n✅ Skin M1014 .\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/fullsungshiba.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/sung/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/sung/ff_max.zip",
+      "min_app_version": "2.9",
+      "updated": 2000000030
+    },
                 {
       "id": "v227",
       "title": "Hiệu Ứng Kết Liểu",
