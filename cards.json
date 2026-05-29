@@ -1,5 +1,29 @@
 {
-  "cards": [           
+  "cards": [    
+            {
+      "id": "v231",
+      "title": "Trogon báu vật hoàng kim",
+      "description": "Trogon phon xà",
+      "detail": "Cần chuẩn bị\n✅ Skin Trogon phon xà.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/trogonbauvathoangkim/trogonbauvathoangkim.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/trogonbauvathoangkim/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/trogonbauvathoangkim/ff_max.zip",
+      "min_app_version": "3.0",
+      "updated": 2000000033
+    },
+        {
+      "id": "v230",
+      "title": "Bom Keo Gái 2",
+      "description": "Bom Keo Nhân mã",
+      "detail": "Cần chuẩn bị\n✅ Skin bom keo Nhan Ma.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo2/bomkeo2.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo2/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/bomkeo2/ff_max.zip",
+      "min_app_version": "3.0",
+      "updated": 2000000032
+    },
     {
       "id": "v229",
       "title": "Bom Keo Gái 1",
@@ -410,44 +434,38 @@
       "title": "V37",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/V41.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V27/V27.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V41/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V27/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V27/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 1769000000
     },
                     {
       "id": "v36",
       "title": "V36",
-      "description": "Nhân vật Alock thức tỉnh",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/V40.jpg",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/V26.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V40/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V26/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 1768000000
     },
                 {
       "id": "v35",
       "title": "V35",
-      "description": "Nhân vật Santino",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Santino\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/V39.jpg",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V25/V25.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V39/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V25/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V25/ff_max.zip",
       "min_app_version": "3.0",
       "updated": 1767000000
     },
 
-
-
-
-
-    
-    
                 {
       "id": "v34",
       "title": "V34",
