@@ -1,5 +1,41 @@
 {
   "cards": [    
+                        {
+      "id": "v234",
+      "title": "Bom Keo Gái 3",
+      "description": "Full skin bom keo",
+      "detail": "Cần chuẩn bị\n✅ Skin bom keo bất kì.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/releases/download/bomkeogai/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/releases/download/bomkeogai/ff_max.zip",
+      "min_app_version": "3.1",
+      "updated": 2000000036
+    }
+                    {
+      "id": "v233",
+      "title": "G36 Thanh Hóa",
+      "description": "G36 phong xà",
+      "detail": "Cần chuẩn bị\n✅ Skin G36 phong xà.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/g36/g36.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/g36/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/g36/ff_max.zip",
+      "min_app_version": "3.1",
+      "updated": 2000000035
+    },
+                {
+      "id": "v232",
+      "title": "Awm hỏa băng",
+      "description": "Awm phong xà",
+      "detail": "Cần chuẩn bị\n✅ Skin awm phong xà.\n\nCách cài:\n1) Vào tải gói mở rộng của các cái này. \n2)Ra cài FF tương ứng.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmhoabang/awmhoabang.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmhoabang/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/khosung/awmhoabang/ff_max.zip",
+      "min_app_version": "3.1",
+      "updated": 2000000034
+    },
             {
       "id": "v231",
       "title": "Trogon báu vật hoàng kim",
@@ -426,8 +462,31 @@
 
 
 
+                        {
+      "id": "v38",
+      "title": "V38",
+      "description": "Nhân vật Alock thức tỉnh",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alock thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/nonla/nonla.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/nonla/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/nonla/ff_max.zip",
+      "min_app_version": "3.1",
+      "updated": 1771000000
+    },
+                    {
+      "id": "v38",
+      "title": "V38",
+      "description": "Nhân vật Ignis",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n cre: Ken Mod z",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/c4/c4.jpg",
+      "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/c4/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/honghac/c4/ff_max.zip",
+      "min_app_version": "3.1",
+      "updated": 1770000000
+    },
     
-
 
                     {
       "id": "v37",
