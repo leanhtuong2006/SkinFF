@@ -830,12 +830,12 @@
       "id": "v19",
       "title": "V19",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật\n\n Cre: Kenmodz.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V11old/V11old.jpg",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/skaepo/V5/V5.jpg",
       "video": "https://youtu.be/Tvq4-X7Ef2E",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10old/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V10old/ff_max.zip",
-      "min_app_version": "32",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/skaepo/V5/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/skaepo/V5/ff_max.zip",
+      "min_app_version": "3.4",
       "updated": 1751000000
     },
 
